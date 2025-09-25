@@ -1,6 +1,6 @@
 # AI-TEXT-TO-IMAGE-GENERATOR
 
-~Project Description~
+~Project Description
 
 This project is a Stable Diffusion Image Generator built in Google Colab.
 It uses the public model stabilityai/stable-diffusion-2-1, which requires no login or API token, making it simple to run anywhere.
